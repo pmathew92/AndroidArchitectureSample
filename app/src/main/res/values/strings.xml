@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">MVVM</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="not_a_member_yet">Not a member yet ?</string>
+    <string name="signup">Signup</string>
+    <string name="signin">SignIn</string>
+    <string name="name">Name</string>
+    <string name="already_have_an_account">Already have an account ?</string>
+    <string name="update">Update</string>
+    <string name="welcome">Welcome ,</string>
+</resources>
